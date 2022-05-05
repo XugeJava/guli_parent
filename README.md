@@ -7,6 +7,15 @@
 3.运行结果如下
 这是test用户进入的动态路由列表
 
+菜单管理
+![image](https://user-images.githubusercontent.com/91325832/166891876-934a740d-dbba-4e86-ab41-fc2d288c2171.png)
+
+角色管理
+![image](https://user-images.githubusercontent.com/91325832/166891950-36bd9a51-4c2c-4189-9d56-74ea2d58af0d.png)
+用户管理
+![image](https://user-images.githubusercontent.com/91325832/166891995-ae8baa7f-6392-4cbd-8647-787113b96e7f.png)
+
+
 ![image](https://user-images.githubusercontent.com/91325832/166891390-adb99e34-9ec4-4c99-9083-32677be8b770.png)
 
 login

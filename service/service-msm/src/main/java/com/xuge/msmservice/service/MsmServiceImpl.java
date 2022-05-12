@@ -14,8 +14,9 @@ import java.util.Map;
 public class MsmServiceImpl implements MsmService {
   @Override
   public Boolean send(Map<String, Object> map, String phone) {
-    SmsUtils.sendMessage("424f9991f7154b65aaa6ce87f0a11113",phone,(String)map.get("code"),"5","2e65b1bb3d054466b82f0c9d125465e2","908e94ccf08b4476ba6c876d13f084ad");
-
+      //在这里调用你的sendMessage工具类，写入你的参数
+    
+//    
 
     return true;
   }

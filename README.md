@@ -1,3 +1,7 @@
+启动服务前，需启动nacos
+![image](https://user-images.githubusercontent.com/91325832/188088070-1d710488-e7b4-455e-ab15-bde6fa02a361.png)
+
+
 # guli_parent
 
 1.大致功能基本实现
